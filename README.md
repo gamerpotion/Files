@@ -1,6 +1,6 @@
 # GamerPotion Files
 
-- RTX Ray Tracing Resource Pack (version 1.0.0 and 2.0.0)
+- RTX Ray Tracing Resource Pack (version 1.0.0 and 2.0.0 only usable in Minecraft Bedrock Edition)
 - Datapack to change spawn location for the DarkSpawn mod  (place inside world's  'datapacks' folder then restart the world/server)
 - Datapack to disable recipes for the DarkBindings mod  (place inside world's  'datapacks' folder then restart the world/server)
 - Datapack to change drop values for the DarkMining mod  (place inside world's  'datapacks' folder then restart the world/server)
